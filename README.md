@@ -1,4 +1,4 @@
-# Workflow Tracker
+# Workflow State Tracker
 
 A Spring Boot service that tracks asynchronous workflow events and acknowledgements from downstream services.
 
